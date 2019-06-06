@@ -1,0 +1,11 @@
+commit 16ae47778907c758a606dc5054c94280c24c0869
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Jun 6 20:14:32 2019 -0300
+
+    Commit Questão 3
+
+commit 842fd0cbaa6038d6fa9942cb327396fcee415d65
+Author: Aluno CESJF <alunoces@labcesac.net>
+Date:   Thu Jun 6 19:39:44 2019 -0300
+
+    Commit Questão 2
